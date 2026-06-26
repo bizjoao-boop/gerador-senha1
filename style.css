@@ -86,6 +86,11 @@ body{
 }
 
 .parametro-senha-botoes{
+    background-color: var(--fundo-texto);
+    color: var(--branco);
+    border: 2px solid var(--borda);
+    padding: 24px;
+    font-size: 24px;
     display: flex;
     justify-content: center;
 }
